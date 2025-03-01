@@ -6,9 +6,9 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Will You Marry Me?",
+  title: "N PACI P?",
   description: "A special proposal just for you",
-    generator: 'v0.dev'
+    generator: 'created by n paci p'
 }
 
 export default function RootLayout({
